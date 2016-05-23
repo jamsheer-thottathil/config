@@ -1,4 +1,4 @@
-email: d@gmail.com
+email: domain@gmail.com
 preferenceDetails:
 - {eventTypeId: '1466', notificationStyleId: '1001', deliverMode: stop}
 - {eventTypeId: '1466', notificationStyleId: '1001', deliverMode: stoppp}
