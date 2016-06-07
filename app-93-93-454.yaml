@@ -1,0 +1,5 @@
+recipientDetails: {key: targetId, value: '453'}
+outBoundStyleAttributes: {deliverMode: 'true', schedule: every1h}
+outBoundStyleId: '1003'
+recipientType: target
+inBoundMail: ' jamsheer_t@pubsub.prd.nyc2.netspective.io'
