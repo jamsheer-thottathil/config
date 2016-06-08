@@ -1,5 +1,5 @@
+recipientDetails: {key: targetId, value: '450'}
+outBoundStyleAttributes: {sourceNumber: '+919995671735'}
 outBoundStyleId: '1000'
 recipientType: target
-recipientDetails: {key: targetId, value: '450'}
-inBoundMail: root@ems.dbms.test.nyc2.netspective.com
-outBoundStyleAttributes: {sourceNumber: '+919995671735'}
+inBoundMail: justin_joseph@pubsub.prd.nyc2.netspective.io
