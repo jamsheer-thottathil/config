@@ -1,0 +1,6 @@
+outBoundStyleId: '1000'
+recipientType: target
+inBoundMail: jamsheer_t@precis.prd.nyc2.netspective.com
+recipientDetails: {key: targetId, value: '551'}
+outBoundStyleAttributes:
+- {sourceNumber: ' 919562201376'}
