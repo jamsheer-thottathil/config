@@ -1,0 +1,6 @@
+outBoundStyleId: '1003'
+recipientType: target
+inBoundMail: jamsheer_t@pubsub.prd.nyc2.netspective.io
+recipientDetails: {key: targetId, value: '584'}
+outBoundStyleAttributes:
+- {schedule: every1h, GMT: ' 05: 30', subject: hai you have one message}
