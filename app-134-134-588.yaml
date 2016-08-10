@@ -3,4 +3,4 @@ recipientType: target
 inBoundMail: noyalch@gmail.com
 recipientDetails: {key: targetId, value: '587'}
 outBoundStyleAttributes:
-- {schedule: every15m, GMT: '+05: 30', subject: hai you have one message}
+- {schedule: every15m, GMT: '+05:30', subject: hai you have one message}
