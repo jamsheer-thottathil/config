@@ -1,0 +1,5 @@
+outBoundStyleId: '1000'
+recipientType: target
+notificationContents: ' jamsheer has just logged to precis machine'
+inBoundMail: jamsheer_t@precis.prd.nyc2.netspective.com
+recipientDetails: {key: targetId, value: '600'}
